@@ -1,0 +1,29 @@
+.car {
+    background: ivory;
+    width: 300px;
+    border: 1px solid khaki;
+    padding: 5px;
+}
+
+.car__model {
+    font-size: 18px;
+    color: slategray;
+}
+
+.car__price {
+    font-size: 16px;
+    color: yellowgreen;
+}
+
+.car__specs {
+    font-size: 12px;
+    color: black;
+}
+
+.car__specs--mileage {
+    color: crimson;
+}
+
+.car__specs--engine {
+    color: darkolivegreen;
+}
